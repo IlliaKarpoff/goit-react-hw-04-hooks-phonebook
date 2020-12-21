@@ -3,7 +3,7 @@ import { v4 as uuid } from 'uuid';
 // import Layout from './Layout/Layout';
 import Section from './components/Section/Section';
 import ContactForm from './components/ContactForm/ContactForm';
-import ContactsList from './components/ContactsList/ContactsList';
+import ContactsList from './components/ContactList/ContactList';
 import Filter from './components/Filter/Filter';
 
 export default function App() {
